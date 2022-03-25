@@ -2,7 +2,7 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Akasiek)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasiek&show_icons=true&theme=shades-of-purple&hide_border=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasiek&show_icons=true&theme=shades-of-purple&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Akasiek/Akasiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
