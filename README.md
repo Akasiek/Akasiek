@@ -12,6 +12,8 @@
   
   [![Akasiek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasiek&show_icons=true&theme=shades-of-purple&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![Akasiek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=shades-of-purple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  
   [![Akasiek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasiek&layout=compact&theme=shades-of-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
