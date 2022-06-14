@@ -18,6 +18,11 @@
   
   <br>
   
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+  <br>
+  
   ## Contact me here
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpomykala2002@gmail.com)
