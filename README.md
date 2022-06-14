@@ -16,6 +16,8 @@
   
   [![Akasiek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasiek&layout=compact&theme=shades-of-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![wakatime](https://wakatime.com/badge/user/71e39523-089b-449e-a9a7-4a22c5fccb78.svg?style=for-the-badge)](https://wakatime.com/@71e39523-089b-449e-a9a7-4a22c5fccb78)
+  
   <br>
   
   <!--START_SECTION:waka-->
