@@ -18,21 +18,7 @@
   
   [![wakatime](https://wakatime.com/badge/user/71e39523-089b-449e-a9a7-4a22c5fccb78.svg?style=for-the-badge)](https://wakatime.com/@71e39523-089b-449e-a9a7-4a22c5fccb78)
   
-  <br>
-  
-  <!--START_SECTION:waka-->
 
-```text
-PHP              18 hrs 45 mins  ██████████████████████▒░░   89.75 %
-CSS              1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-JavaScript       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
-  
   <br>
   
   ## Contact me here
