@@ -1,6 +1,6 @@
 
 
-![Background Image](https://i.imgur.com/SJEt58k.png "Profile banner")
+![Background Image](https://i.imgur.com/5GwdCWM.png "Profile banner")
 
 <br/>
 
