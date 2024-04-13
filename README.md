@@ -1,20 +1,16 @@
 
 
-![Background Image](https://i.imgur.com/iQwu9gl.png "Profile banner")
+![Background Image](https://i.imgur.com/Zg39Adn.jpeg "Profile banner")
 
 <br/>
 
 <div align="center">
-
-  ## Hi! 👋 My name is Kamil. Welcome to my Github Page
-
-  #### Here are my Github stats 
   
-  [![Akasiek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasiek&show_icons=true&theme=shades-of-purple&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Akasiek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasiek&show_icons=true&theme=graywhite&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Akasiek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=shades-of-purple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  [![Akasiek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=graywhite&hide_border=true&border_radius=10)](https://git.io/streak-stats)
   
-  [![Akasiek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasiek&layout=compact&theme=shades-of-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Akasiek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akasiek&layout=compact&theme=graywhitee&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   [![wakatime](https://wakatime.com/badge/user/71e39523-089b-449e-a9a7-4a22c5fccb78.svg?style=for-the-badge)](https://wakatime.com/@71e39523-089b-449e-a9a7-4a22c5fccb78)
   
